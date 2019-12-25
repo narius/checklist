@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "New project"
+date: 2019-12-25
+categories: About
 ---
 
 # It is time for a new project
